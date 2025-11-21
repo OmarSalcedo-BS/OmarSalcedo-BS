@@ -53,6 +53,7 @@ Aquí están las tecnologías que manejo y con las que estoy experimentando:
 | 🗄️ Gestión de Bases de Datos | 📢 Comunicación asertiva |
 | 🔧 Control de versiones (Git) | 🧩 Resolución de problemas |
 | 📱 Diseño Responsivo | 📚 Aprendizaje autodidacta |
+| 💻 Python | 🤝 Trabajo de Scrum |
 
 ---
 
@@ -60,20 +61,16 @@ Aquí están las tecnologías que manejo y con las que estoy experimentando:
 
 | Certificación | Emisor | Fecha / Estado |
 | :--- | :--- | :--- |
-| **[Fundamentos del Desarrollo Web Profesional]** | [Platzi] | 🔄 En curso (2025) |
-| **[Base de datos]** | [Platzi] | 🔄 En curso |
+| **[Fundamentos del Desarrollo Web Profesional]** | [Platzi] |  ✅ Completado (2025) |
+| **[Curso de Java SE: SQL Y Base de datos]** | [Platzi] |  ✅ Completado (2025) |
+| **[Curso de Git y Github]** | [Platzi] |  ✅ Completado (2025) |
+| **[Curos de desarrollo web HTML Y CSS]** | [Platzi] |  ✅ Completado (2025) |
+| **[Curso de Java]** | [Platzi] |  ✅ Completado (2025) |
+| **[Curso de fundamentos de Javascript]** | [Platzi] |  ✅ Completado (2025) |
 | **[Certificado de SQL Server]** | [Hackerank] | ✅ Completado (2025) |
 
 ---
 
-### 📊 Mis Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="150" alt="languages graph"  />
-</div>
-
----
 
 <div align="center">
   <h3 align="center">📫 ¡Conectemos!</h3>
