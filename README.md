@@ -21,6 +21,7 @@
 Soy un apasionado desarrollador de software en formación. Me encanta resolver problemas y ver cómo líneas de texto cobran vida en aplicaciones funcionales. Actualmente estoy enfocado en mejorar mis habilidades en **Desarrollo web, Frontend, Backend, Base de datos**.
 
 - 🔭 Actualmente estoy trabajando en: **Proyecto integrador con un restaurante, Portfolio personal y maquetación de páginas web independiente**
+- 🔭 Tambien estoy desarrollando mi primera app web: **My Pocket web** es de código abierto y sirve para aprender el manejo de react
 - 🌱 Estoy aprendiendo: **Desarrollo de software**
 - 👯 Busco colaborar en: **Proyectos Open Source para principiantes**
 - ⚡ Dato curioso: **Soy escritor, artista en Youtube y una Papa**
@@ -54,6 +55,7 @@ Aquí están las tecnologías que manejo y con las que estoy experimentando:
 | 🔧 Control de versiones (Git) | 🧩 Resolución de problemas |
 | 📱 Diseño Responsivo | 📚 Aprendizaje autodidacta |
 | 💻 Python | 🤝 Trabajo de Scrum |
+| 💻 React / JSX 
 
 ---
 
@@ -68,7 +70,7 @@ Aquí están las tecnologías que manejo y con las que estoy experimentando:
 | **[Curso de Java]** | [Platzi] |  ✅ Completado (2025) |
 | **[Curso de fundamentos de Javascript]** | [Platzi] |  ✅ Completado (2025) |
 | **[Certificado de SQL Server]** | [Hackerank] | ✅ Completado (2025) |
-
+| **[Certificado de Fundamentos de Python]** | [Platzi] | ✅ Completado (2025) |
 ---
 
 
